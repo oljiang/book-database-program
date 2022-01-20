@@ -4,5 +4,5 @@
 # edit books
 # delete books
 # search books
-# data clearning
+# data cleaning
 # loop runs program
